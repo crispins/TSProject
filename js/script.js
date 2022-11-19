@@ -1,0 +1,4 @@
+
+
+    window.silex = window.silex || {}
+    window.silex.data = {"site":{"width":1200},"pages":[{"id":"page-web-to-lead","displayName":"Web to lead","link":{"linkType":"LinkTypePage","href":"#!page-web-to-lead"},"canDelete":true,"canProperties":true,"canMove":true,"canRename":true,"opened":false},{"id":"page-web-to-lead-thank-you-page","displayName":"web to lead thank you page","link":{"linkType":"LinkTypePage","href":"#!page-web-to-lead-thank-you-page"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false},{"id":"page-case-to-lead-1","displayName":"case-to-lead 1","link":{"linkType":"LinkTypePage","href":"#!page-case-to-lead-1"},"canDelete":true,"canRename":true,"canMove":true,"canProperties":true,"opened":false}]}
